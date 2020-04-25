@@ -1,0 +1,78 @@
+Printed
+MRN
+HAR
+Patient
+ENCOUNTER
+CSN
+Patient Class
+Unit
+Hospital Service
+Room/Bed
+Admitting Provider
+Adm Diagnosis
+Attending Provider
+Admit Source
+Patient First Name
+Patient Last Name
+Name
+Race
+DOB
+Address
+Ethnicity
+Sex
+City
+Language
+MS
+PCP
+Religion
+Primary Phone
+Guarantor Name
+Guarantor Date of Birth
+Guarantor Address
+Guarantor Sex
+Guarantor Relation
+Guarantor Home Phone
+Guarantor ID
+Guarantor Work Phone
+Guarantor Employer
+Guarantor Status
+Emergency Contact Name
+Emergency Is Legal Guradian
+Emergency Relationship to Patient
+Emergency Primary Phone
+PRIMARY Insurance Company
+PRIMARY Phone
+PRIMARY Plan Name
+PRIMARY Payor Name
+PRIMARY Subscriber Name
+PRIMARY Claim Address
+PRIMARY Eff From - Eff To
+PRIMARY Patient Relation To
+PRIMARY Insurance Type
+PRIMARY Group Number
+PRIMARY Subscriber ID
+PRIMARY Subscriber DOB
+SECONDARY Insurance Company
+SECONDARY Phone
+SECONDARY Plan Name
+SECONDARY Payor Name
+SECONDARY Subscriber Name
+SECONDARY Claim Address
+SECONDARY Eff From - Eff To
+SECONDARY Patient Relation To
+SECONDARY Insurance Type
+SECONDARY Group Number
+SECONDARY Subscriber ID
+SECONDARY Subscriber DOB
+TERTIARY Insurance Company
+TERTIARY Phone
+TERTIARY Plan Name
+TERTIARY Payor Name
+TERTIARY Subscriber Name
+TERTIARY Claim Address
+TERTIARY Eff From - Eff To
+TERTIARY Patient Relation To
+TERTIARY Insurance Type
+TERTIARY Group Number
+TERTIARY Subscriber ID
+TERTIARY Subscriber DOB

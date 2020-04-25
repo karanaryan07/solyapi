@@ -1,0 +1,72 @@
+Printed : March 1, 2020
+MRN : 101863198
+HAR : 80800333130
+Patient : JASTRZEBSKI, DENNIS
+ENCOUNTER : 2/29/2020
+CSN : 5063831914
+Patient Class : Inpatient
+Unit : JFK  NORTH
+Hospital Service : MED (MEDICINE)
+Room/Bed : 5310/02
+Admitting Provider : Emily R Felzenberg, DO
+Adm Diagnosis : Bladder tumor [D49.4]
+Attending Provider : Emily R Felzenberg, DO
+Admit Source : Non-healtheare Facility
+Name : Ci JASTRZEBSKI, DENNIS
+Race : WHITE
+DOB : 1/13/1956 (64 yrs)
+Address : po box 6904 FREEHOLD NJ 07728
+Ethnicity : Not Spanish Or Hispanic*
+Sex : Male
+City : FREEHOLD, NJ 07728
+Language : ENGLISH
+MS : Married
+PCP : Pep Not In System
+Religion : OTHER Pr
+Primary Phone : -3997
+Guarantor Name : JASTRZEBSKI,DENNIS
+Guarantor Date of Birth : 1/13/1956
+Guarantor Address : po bax 6904 FREEHOLD NJ
+Guarantor Sex : Male
+Guarantor Relation : Self
+Guarantor Home Phone : 732-299-3997
+Guarantor ID : 111272948
+Guarantor Work Phone : 
+Guarantor Employer : 
+Guarantor Status : UNKNOWN
+PRIMARY Insurance Company : HMH COMPASSIONATE co
+PRIMARY Phone : 
+PRIMARY Plan Name : HMH COMPASSIONATE CARE
+PRIMARY Payor Name : HMH COMPASSIONATE co
+PRIMARY Subscriber Name : JASTRZEBSKI,DENNIS
+PRIMARY Claim Address : po box 6904 COMPASSIONATE FREEHOLD, NJ 07728 CARE
+PRIMARY Eff From - Eff To : 2/29/2020 - 
+PRIMARY Patient Relation To : Self 
+PRIMARY Insurance Type : INDEMNITY 
+PRIMARY Group Number : 
+PRIMARY Subscriber ID : 
+PRIMARY Subscriber DOB : /13/1956
+SECONDARY Insurance Company :  
+SECONDARY Phone : 
+SECONDARY Plan Name : 
+SECONDARY Payor Name :  
+SECONDARY Subscriber Name : 
+SECONDARY Claim Address :  
+SECONDARY Eff From - Eff To :  
+SECONDARY Patient Relation To :  
+SECONDARY Insurance Type :  
+SECONDARY Group Number : 
+SECONDARY Subscriber ID : 
+SECONDARY Subscriber DOB : 
+TERTIARY Insurance Company :  
+TERTIARY Phone : 
+TERTIARY Plan Name : 
+TERTIARY Payor Name :  
+TERTIARY Subscriber Name : 
+TERTIARY Claim Address :  
+TERTIARY Eff From - Eff To :  
+TERTIARY Patient Relation To :  
+TERTIARY Insurance Type :  
+TERTIARY Group Number : 
+TERTIARY Subscriber ID : 
+TERTIARY Subscriber DOB : 

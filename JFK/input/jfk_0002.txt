@@ -1,0 +1,55 @@
+“obPage | of 2
+JFK Medical Center - Insurance Information
+Printed: February 21, 2020 MRN: 100929485 HAR: 80800298493 Patient: ANAN,DANIES
+ENCOUNTER - 2/14/2020 CSN: 5062907694
+Patient Class: Inpatient Unit: JFK 4C CCU
+Hospital Service: CCU (CORONARY CARE ICU) Room/Bed: 4405/01
+Admitting Provider Hema M Dantulur, MD Adm Diagnosis. Infected wound [TH4.8XXA, L08.9]
+Attending Provider Hema M Dantuluri, MD Admit Source: ‘Transfer from a Hospital*
+PATIENT |
+Name Cs DANIES a DOB: — 3/4/1966,(53 yrs)
+™~ — AMERICAN, -
+Address: 83 WINDINGWOOD DR APT 8A. Ethnicity Not: Spanish Or Hispanic* Sex: Male
+City SAYREVILLE, NJ 08872 Language: ENGLISH MS: Married
+PCP. Samir Patel Religion: — CHRISTIAN Primary 732-416-6333
+Phone:
+GUARANTOR
+Guarantor: ANAN.DANIES Date of Birth: 3/4/1966
+Address: 83 WINDINGWOOD DR APT 84. Sex: Male
+SAYREVILLE, NJ 08872
+Relation: Self Home Phone: 732-416-6333
+Guarantor: 110865679 Work Phone:
+Guarantor Employer: NOT EMPLOYED. Status: NOT EMPLO*
+EMERGENCY CONTACT
+Contact Name Leval Guardian’? Relationship to Patient Primary Phone
+1 Anan.Jeyce Spouse 732-416-6333
+2. *No Contact Specified* .
+COVERAGE
+PRIMARY INSURANCE Authorization Numbers Waune7g amen el ag nme CIR Ra
+Insurance MEDICARE Phone: Plan: MEDICARE PART A AND B
+Company
+Payor Name: MEDICARE Subscriber Name: ANAN,DANIES Claim PO BOX 890030
+Address: CAMP HILL, PA 17089-0030.
+HiPErom EHP 72014 Pat. Rel. to Self Insurance INDEMNITY
+To: Subscriber Type:
+Group Number Subscriber ID: 7CQ3PHOXD02 Sub. DOB: 03/04/1966
+SECONDARY INSURANGE © Amiidnzaion Nonben NAL eee
+Insurance HORIZON NI Phone: Plan: HORIZON NJ HEALTH
+Company HEALTH
+Payor Name: HORIZON NJ Subscriber Name: ANAN,DANIES. Claim: PO BOX 24078
+HEALTH Address: NEWARK, NJ 07101-0406
+Eff From ~ Eff 6/1/2019 - Pat. Rel to SELF Insurance, INDEMNITY
+To: Subseriber Type:
+Group Number 0700 Subscriber ID: 70955728, Sub, DOB 3/4/1966.
+TERTIARY INSURANCE = Authorization Number: NA 0 0 ee) Spee
+Insurance Phone: Plan:
+Company
+Payor Name: Subscriber Name: Clam
+Address’
+Eff From ~ Eff - Pat. Rel. to Insurance,
+To: Subseriber Type
+Group Number Subscriber ID. Sub. DOB:
+Referred By Destination: 1 2. 3. 4
+\3 v2
+re
+Printed by SANTIAGO, ARTHUR F 7522235" at 2/21/2020 10:20:56 AM

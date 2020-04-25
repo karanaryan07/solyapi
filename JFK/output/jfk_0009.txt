@@ -1,0 +1,72 @@
+Printed : February 21, 2020
+MRN : 104199382
+HAR : 80800303489
+Patient : GHOSH, PROBIR
+ENCOUNTER : 2/18/2020
+CSN : 5063114634
+Patient Class : Inpatient
+Unit : JFK 3 NORTH STR
+Hospital Service : MED (MEDICINE)
+Room/Bed : 3305/01
+Admitting Provider : Stanley  Kim, MD
+Adm Diagnosis : ICH (intracerebral hemorrhage) (HCC) I*
+Attending Provider : Stanley S Kim, MD
+Admit Source : Non-healthcare Facility
+Name : GHOSH, PROBIR
+Race : OTHER RACE
+DOB : 1/21/1943 (77 2 i 2 yrs)
+Address : 23 KESTER DRIVE
+Ethnicity : Not Spanish Or Hispanic*
+Sex : Male
+City : EDISON NJ 08817
+Language : ENGLISH
+MS : Married
+PCP : Indravadan T Patel, MD
+Religion : HINDU ae
+Primary Phone : 347-204-7175
+Guarantor Name : GHOSH,PROBIR
+Guarantor Date of Birth : 1/21/1943
+Guarantor Address : 23 KESTER DRIVE EDISON NJ
+Guarantor Sex : Male
+Guarantor Relation : Self
+Guarantor Home Phone : 752-549-3896
+Guarantor ID : 111038119
+Guarantor Work Phone : 
+Guarantor Employer : RETIRED
+Guarantor Status : RETIRED
+PRIMARY Insurance Company : MEDICARE 
+PRIMARY Phone : 
+PRIMARY Plan Name : MEDICARE PART A AND B
+PRIMARY Payor Name : MEDICARE 
+PRIMARY Subscriber Name : GHOSH,PROBIR
+PRIMARY Claim Address : PO BOX 890030 CAMP HILL PA 170890030
+PRIMARY Eff From - Eff To : 1/1/2008 
+PRIMARY Patient Relation To : Self 
+PRIMARY Insurance Type : INDEMNITY 
+PRIMARY Group Number : 
+PRIMARY Subscriber ID : 7DH7NQ2VK63
+PRIMARY Subscriber DOB : 21/1943
+SECONDARY Insurance Company :  
+SECONDARY Phone : 
+SECONDARY Plan Name : 
+SECONDARY Payor Name :  
+SECONDARY Subscriber Name : 
+SECONDARY Claim Address :  
+SECONDARY Eff From - Eff To :  
+SECONDARY Patient Relation To :  
+SECONDARY Insurance Type :  
+SECONDARY Group Number : 
+SECONDARY Subscriber ID : 
+SECONDARY Subscriber DOB : 
+TERTIARY Insurance Company :  
+TERTIARY Phone : 
+TERTIARY Plan Name : 
+TERTIARY Payor Name :  
+TERTIARY Subscriber Name : 
+TERTIARY Claim Address :  
+TERTIARY Eff From - Eff To :  
+TERTIARY Patient Relation To :  
+TERTIARY Insurance Type :  
+TERTIARY Group Number : 
+TERTIARY Subscriber ID : 
+TERTIARY Subscriber DOB : 

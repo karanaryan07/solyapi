@@ -1,0 +1,54 @@
+“%bPage | of 2
+JFK Medical Center - Insurance Information
+Printed: February 29, 2020 MRN: 102082045, HAR: 80800328908 Patient: LEWIS, FRANCES
+ENCOUNTER - 2/27/2020 CSN: 5063749047
+Patient Class: Inpatient Unit: JFK AC CCU
+Hospital Service’ MCU (MEDICAL ICU) Room/Bed: 4405/01
+Admitting Provider: Niloo Prasad, MD Adm Diagnosis: Acute cystitis without hematuria [N30.0*
+Attending Provider’ Sudhanshu Prasad, MD Admit Source: Non-healthcare Facility
+PATIENT 25
+Naine. C Lewis, FRANCE sy Race: WHITE DOB: 7/26/1929 (90 yrs)
+“3 SNYDER AVE SAYREVILLE NJ
+Address’ 08872 Ethnicity: Not: Spanish Or Hispanic* Sex: Female
+City, SAYREVILLE, NJ 08872 Language: ENGLISH MS: Widowed
+PCP, Jagjit Walia Religion: RUSSIAN ORTHODOX pee 732-513-3168::732-513-3168
+GUARANTOR
+Guarantor. LEWIS,FRANCES: Date of Birth: 7/26/1929
+Address; 3 SNYDER AVE Sex: Female
+SAYREVILLE, NJ 08872
+Relation’ Self Home Phone: 732-513-3168.
+Guarantor, 111073034 Work Phone:
+Guarantor Employer: RETIRED Status: RETIRED.
+EMERGENCY CONTACT
+Contact Name Leeal Guardian? Relationshin to Patient Primary Phone
+i. Zielinski,Susan Child - Daughter/Son To 732-513-3168.
+2. FIORETTLVANESSA Pt. 732-794-7154
+Grandehild
+COVERAGE
+PRIMARY INSURANCE - Authorization Numba WA’ 052) 2 OE a Rilo ual Ne adn?
+Insuranee MEDICARE Phone: Plan: MEDICARE PART A AND B
+Company
+Payor Name MEDICARE Subscriber Name LEWIS.FRANCES Claim PO BOX 890030
+Address: CAMP HILL, PA 17089-0030
+Eff From - Eff TAL994 = Pat. Rel. to Self Insurance INDEMNITY
+Vo Subscriber: ‘Type:
+Group Number ‘Subscriber ID: 4PLIDASDMIO Sub. DOB: 07/26/1929
+SECONDARY INSURANCE - Authorization Number: NPR Mee
+lnsurance HORIZON BC/BS OF Phone: Plan: BCBS OUT OF St PPO
+Company NJ
+Payor Name: HORIZON BC/BS OF Subscriber Name: LEWIS,FRANCES Claim PO BOX 25,
+NI Address: NEWARK, NJ 07101-0025
+Eff From ~ Eff W2012 = Pat, Rel to SELF Insurance INDEMNITY
+To, Subscriber: Type:
+Group Number: 000071 4361000002 Subscriber ID: UGG921605458 Sub. DOB: 7/26/1929
+TERTIARY INSURANCE - Authorization Number: AD ESO: Palate eine
+Insurance Phone: Plan:
+Company
+Payor Name: Subscriber Name: Claim:
+Address
+Eff From - Eff - Pat. Rel. to Insurance
+To: Subscriber Type:
+Group Number Subscriber ID: Sub, DOB
+Reterred By Destination 234
+Color 0 wipg— poms
+Printed by SANTIAGO, ARTHUR F "522235: at 2/29/2020 6:06:11 PM

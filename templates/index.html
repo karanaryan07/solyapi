@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Payment App</title>
+    <style type="text/css">
+      #paypal-button{
+        margin: 1rem;
+      }
+      .imageP{
+        height: 100vh;
+        width: 25%;
+        background-image: url('https://images.unsplash.com/photo-1534614971-6be99a7a3ffd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80');
+        background-size: cover;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+      }
+      .contain{
+        margin: 0 30rem;
+      }
+    </style>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{ url_for('static', filename='bootstrap.min.css') }}" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="{{ url_for('static', filename='narrow-jumbotron.css') }}" rel="stylesheet">
+  </head>
+  
+<script src="https://www.paypalobjects.com/api/checkout.js"></script>
+
+  <body>
+    <div class="imageP">&nbsp;</div>
+    <div class="contain">
+      <div class="header clearfix">
+        <nav>
+          <ul class="nav nav-pills float-right">
+            <li class="nav-item">
+              <a class="nav-link active" href="http://localhost:3000">Home <span class="sr-only">(current)</span></a>
+            </li>
+          </ul>
+        </nav>
+        <h3 class="text-muted">Payment App</h3>
+      </div>
+
+      <div class="jumbotron">
+        <h1 class="display-3">Add Credits</h1>
+        <p class="lead">Make Payment to add 100 Credits</p>
+        <form action="{{ url_for('pay') }}" method="POST">
+          <script
+            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+            data-key="{{ pub_key }}"
+            data-amount="19900"
+            data-name="Demo Site"
+            data-description="Widget"
+            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+            data-locale="auto">
+            
+          </script>
+        </form>
+
+        <div id="paypal-button">&nbsp;</div>
+      </div>
+
+      <footer class="footer">
+        <p>&copy; Store 2020</p>
+      </footer>
+
+    </div> <!-- /container -->
+<script>
+    var CREATE_PAYMENT_URL  = 'http://127.0.0.1:5000/payment';
+    var EXECUTE_PAYMENT_URL = 'http://127.0.0.1:5000/execute';
+    paypal.Button.render({
+
+        env: 'sandbox', // Or 'sandbox'
+
+        commit: true, // Show a 'Pay Now' button
+
+        payment: function() {
+            return paypal.request.post(CREATE_PAYMENT_URL).then(function(data) {
+                return data.paymentID;
+            });
+        },
+
+        onAuthorize: function(data) {
+            return paypal.request.post(EXECUTE_PAYMENT_URL, {
+                paymentID: data.paymentID,
+                payerID:   data.payerID
+            }).then(function(res) {
+                
+
+                console.log(res.success)
+                location.replace("/thanks?email="+"{{acc}}")
+            });
+        }
+
+    }, '#paypal-button');
+</script>
+  </body>
+</html>

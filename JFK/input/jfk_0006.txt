@@ -1,0 +1,59 @@
+“obPage 1 of 2
+JFK Medical Center - Insurance Information
+Printed: February 21, 2020 MRN: 103627912 HAR: 80800290723 Patient: BRENNAN, ELLEN
+ENCOUNTER - 2/9/2020 CSN: 5062600681
+Patient Class: Inpatient Unit JPK $ NORTH ~
+Hospital Service: MED (MEDICINE) Room/Bed: S317/01
+Admitting Provider: Indegjit Kainth, MD ‘Adm Diagnosis: Pneumonia [J18.9]
+Auending Provider: Inderjit Kaimh, MD Admit Source: ‘Transfer from Another He*
+PATIENT ~~) a
+Name: ¢ BRENNAN, ELLEN ) Race: WHITE DOB; 9/14/1929 (90 yrs)
+fas
+Address: his INMANAVE CAREONE AT THE Ethnicity Not: Spanish Or Hispanic* Sex: Female
+HIGHLANDS
+City EDISON. NJ 08820, Language: ENGLISH MS: Married
+PCP: Pradip A Shah, MD Religion: ROMAN CATHOLIC Peimary 908-754-7100:;
+Phone:
+GUARANTOR
+Guarantor; BRENNAN,ELLEN Date of Birth: 9/14/1929
+Address, 1350 INMAN AVE CAREONE AT THE. Sex: Female
+HIGHLANDS
+EDISON, NJ 08820,
+i Relation’ Seif Home Phone: 908-754-7100
+Guarantor, 111242356 Work Phone:
+Guarantor Employer: RETIRED Status: RETIRED ;
+EMERGENCY CONTACT
+Contact Name Legal Guardian? Relationship to Patient Primary Phone
+1. GUARDIAN, OFFICE OF THE PUBLIC No Legal Guardian 609-588-6500,
+2. THWANISH,KATHLEEN No Child - Daughter/Son To 732-261-8317
+PA
+COVERAGE
+BRIMMA RY AIS CRAIG ESA Gable lA Gs oa ER ay PR
+Insurance UNITED Phone: Plan: UNITED AARP MEDICARE.
+Company HEALTHCARE cOM*
+Payor Name: UNITED Subscriber Name: BRENNAN,ELLEN Claim: PO BOX 31353
+HEALTHCARE Address: SALT LAKE CITY, UT 84131
+Eff From ~ Eff 1/1/2020 = Pat, Rel. to Self Insurance: INDEMNITY
+To! Subscriber Type
+Group Number 40550, Subscriber ID: 927577233 Sub. DOB: 09/14/1929
+SECONDARY INSURANCES ‘A ihinnization Number WA eres ree ee ara
+Insurance Phone: Plan:
+Company
+Payor Name Subscriber Name: Claim: 1350 INMAN AVE
+Address: CAREONE AT THE
+HIGHLANDS
+EDISON, NJ 08820,
+Eff From ~ Eff - Pat. Rel to, Insurance
+To: Subseriber: Type:
+Group Number: Subscriber 1D: ‘Sub. DOB:
+TERTIARY INSURANCE” Abthoriaalion Numbee Aca eS HR Se
+Insurance Phone: Plan:
+Company:
+Payor Naine: Subscriber Name: Claim
+Address:
+EI From ~ Eff - Pat. Rel. to Insurance
+To: Subscriber: Type:
+Coy Vx polcalar 4
+ir un GANG
+& (4
+Printed by SANTIAGO, ARTHUR F °522235° at 2/21/2020 10:24:21 AM

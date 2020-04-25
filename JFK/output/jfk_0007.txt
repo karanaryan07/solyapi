@@ -1,0 +1,72 @@
+Printed : February 28, 2020
+MRN : 101123391
+HAR : 80800327387
+Patient : BRZOSTOWSKI, ARTHUR
+ENCOUNTER : 2/27/2020
+CSN : 5063697930
+Patient Class : Inpatient
+Unit : JFK 3 SOUTH TOW
+Hospital Service : MED (MEDICINE)
+Room/Bed : 3108/02
+Admitting Provider : Sudhanshu Prasad, MD
+Adm Diagnosis : Hyponatremia (E87.1]
+Attending Provider : Niloo Prasad, MD
+Admit Source : Non-healtheare Facility
+Name : BRZOSTOWSKI, ARTHUR
+Race : WHITE
+DOB : TAS1947 (72 yrs)
+Address : 208 THORPE AVE AVENEL NJ 07001
+Ethnicity : Not Spanish Or Hispanic*
+Sex : Male
+City : AVENEL, NJ07001
+Language : ENGLISH
+MS : Married
+PCP : , Claire Bomstein, PA
+Religion : OTHER Pr
+Primary Phone : -3485
+Guarantor Name : BRZOSTOWSKLAR THUR
+Guarantor Date of Birth : 7/15/1947
+Guarantor Address : 208 THORPE AVE AVENEL NJ
+Guarantor Sex : Male
+Guarantor Relation : Self
+Guarantor Home Phone : 732-634-3485
+Guarantor ID : 111269395
+Guarantor Work Phone : 
+Guarantor Employer : 
+Guarantor Status : RETIRED
+PRIMARY Insurance Company : MEDICARE 
+PRIMARY Phone : 
+PRIMARY Plan Name : MEDICARE PART A AND B
+PRIMARY Payor Name : MEDICARE 
+PRIMARY Subscriber Name : BRZOSTOWSKIARTHUR
+PRIMARY Claim Address : PO BOX 890030, CAMP HILL, PA 170890030
+PRIMARY Eff From - Eff To : 2012 - 
+PRIMARY Patient Relation To : Self 
+PRIMARY Insurance Type : INDEMNITY 
+PRIMARY Group Number : 
+PRIMARY Subscriber ID : STOOPVOHIV21
+PRIMARY Subscriber DOB : 07/15/1947
+SECONDARY Insurance Company : CIGNA SUPPLEMEN
+SECONDARY Phone : 
+SECONDARY Plan Name : CIGNA MEDICARE
+SECONDARY Payor Name : CIGNA SUPPLEMEN
+SECONDARY Subscriber Name : BRZOSTOWSKI,ARTHUR
+SECONDARY Claim Address : PO BOX 30010 AUSTIN,
+SECONDARY Eff From - Eff To :  
+SECONDARY Patient Relation To : t Rel to SELF 
+SECONDARY Insurance Type : INDEMNITY 
+SECONDARY Group Number : 
+SECONDARY Subscriber ID : 8070300035
+SECONDARY Subscriber DOB : /947
+TERTIARY Insurance Company :  
+TERTIARY Phone : 
+TERTIARY Plan Name : 
+TERTIARY Payor Name :  
+TERTIARY Subscriber Name : 
+TERTIARY Claim Address :  
+TERTIARY Eff From - Eff To :  
+TERTIARY Patient Relation To :  
+TERTIARY Insurance Type :  
+TERTIARY Group Number : 
+TERTIARY Subscriber ID : 
+TERTIARY Subscriber DOB : 

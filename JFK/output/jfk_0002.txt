@@ -1,0 +1,72 @@
+Printed : February 21, 2020
+MRN : 100929485
+HAR : 80800298493
+Patient : ANAN,DANIES
+ENCOUNTER : 2/14/2020
+CSN : 5062907694
+Patient Class : Inpatient
+Unit : JFK 4C CCU
+Hospital Service : CCU (CORONARY CARE ICU)
+Room/Bed : 4405/01
+Admitting Provider : Hema M Dantulur, MD
+Adm Diagnosis : . Infected wound [TH4.8XXA, L08.9]
+Attending Provider : Hema M Dantuluri, MD
+Admit Source : Transfer from a Hospital
+Name : Cs DANIES
+Race : OB
+DOB : 6(53 yrs)   AMERICAN
+Address : 83 WINDINGWOOD DR APT 8A
+Ethnicity : Not Spanish Or Hispanic*
+Sex : Male
+City : SAYREVILLE, NJ 08872
+Language : ENGLISH
+MS : Married
+PCP : Samir Patel
+Religion : CHRIST
+Primary Phone : 32-416-6333
+Guarantor Name : ANANDANIES
+Guarantor Date of Birth : 3/4/1966
+Guarantor Address : 83 WINDINGWOOD DR APT 84 SAYREVILLE NJ
+Guarantor Sex : Male
+Guarantor Relation : Self
+Guarantor Home Phone : 732-416-6333
+Guarantor ID : 110865679
+Guarantor Work Phone : 
+Guarantor Employer : NOT EMPLOYED
+Guarantor Status : NOT EMPLO
+PRIMARY Insurance Company : MEDICARE 
+PRIMARY Phone : 
+PRIMARY Plan Name : MEDICARE PART A AND B
+PRIMARY Payor Name : MEDICARE 
+PRIMARY Subscriber Name : ANAN,DANIES
+PRIMARY Claim Address : PO BOX 890030 CAMP HIL
+PRIMARY Eff From - Eff To : 30   72014 
+PRIMARY Patient Relation To : Self 
+PRIMARY Insurance Type : INDEMNITY 
+PRIMARY Group Number : 
+PRIMARY Subscriber ID : 7CQ3PHOXD02
+PRIMARY Subscriber DOB : 03/04/1966
+SECONDARY Insurance Company : HORIZON NI HEALTH
+SECONDARY Phone : 
+SECONDARY Plan Name : HORIZON NJ HEALTH
+SECONDARY Payor Name : HORIZON NI HEALTH
+SECONDARY Subscriber Name : ANAN,DANIES
+SECONDARY Claim Address : PO BOX 24078 HEALTH NEWARK, NJ 071010406
+SECONDARY Eff From - Eff To : 6/1/2019 
+SECONDARY Patient Relation To : o SELF 
+SECONDARY Insurance Type : INDEMNITY 
+SECONDARY Group Number : 0700
+SECONDARY Subscriber ID : 70955728
+SECONDARY Subscriber DOB : 3/4/1966
+TERTIARY Insurance Company :  
+TERTIARY Phone : 
+TERTIARY Plan Name : 
+TERTIARY Payor Name :  
+TERTIARY Subscriber Name : 
+TERTIARY Claim Address :  
+TERTIARY Eff From - Eff To :  
+TERTIARY Patient Relation To :  
+TERTIARY Insurance Type :  
+TERTIARY Group Number : 
+TERTIARY Subscriber ID : 
+TERTIARY Subscriber DOB : 

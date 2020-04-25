@@ -1,0 +1,32 @@
+<!Doctype>
+<html>
+<head>
+	<title> thank you </title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+</head>
+<body>
+<div class="jumbotron text-center">
+  <h1 class="display-3">Thank You!</h1>
+  <p class="lead"><strong>Please check your email</strong> for further instructions on how to complete your account setup.</p>
+  <hr>
+  <p>
+    Having trouble? <a href="http://localhost:3000">Contact us</a>
+  </p>
+  <p class="lead">
+    <a class="btn btn-primary btn-sm" href="http://localhost:3000" role="button">Continue to homepage</a>
+  </p>
+</div>
+<script>
+  alert("{{acc}}")
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+    console.log(this.responseText)
+    }
+  };
+  xhttp.open("GET", "http://127.0.0.1:5000/buycredit?email="+"{{acc}}", true);
+  xhttp.send();
+</script>
+</body>
+</html>

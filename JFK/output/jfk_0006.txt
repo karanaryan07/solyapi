@@ -1,0 +1,72 @@
+Printed : February 21, 2020
+MRN : 103627912
+HAR : 80800290723
+Patient : BRENNAN, ELLEN
+ENCOUNTER : 2/9/2020
+CSN : 5062600681
+Patient Class : Inpatient
+Unit : JPK  NORTH
+Hospital Service : MED (MEDICINE)
+Room/Bed : 317/01
+Admitting Provider : Indegjit Kainth, MD
+Adm Diagnosis : Pneumonia [J18.9]
+Attending Provider : Inderjit Kaimh, MD
+Admit Source : Transfer from Another He
+Name : BRENNAN, ELLEN
+Race : WHITE
+DOB : 9/14/1929 (90 yrs) fas
+Address : his INMANAVE CAREONE AT THE
+Ethnicity : Not Spanish Or Hispanic*
+Sex : Female HIGHLANDS
+City : EDISON NJ 08820,
+Language : ENGLISH
+MS : Married
+PCP : Pradip A Shah, MD
+Religion : ROMAN CA
+Primary Phone : 908-754-7100
+Guarantor Name : BRENNAN,ELLEN
+Guarantor Date of Birth : 9/14/1929
+Guarantor Address : , 1350 INMAN AVE CAREONE AT THE HIGHLANDS EDISON NJ  i
+Guarantor Sex : Female
+Guarantor Relation : Seif
+Guarantor Home Phone : 908-754-7100
+Guarantor ID : 111242356
+Guarantor Work Phone : 
+Guarantor Employer : RETIRED
+Guarantor Status : RETIRED
+PRIMARY Insurance Company : UNITED HEALTHCARE cOM
+PRIMARY Phone : 
+PRIMARY Plan Name : UNITED AARP MEDICARE
+PRIMARY Payor Name : UNITED HEALTHCARE cOM
+PRIMARY Subscriber Name : BRENNAN,ELLEN
+PRIMARY Claim Address : PO BOX 31353 HEALTHCARE SALT LAKE CITY, UT 84131
+PRIMARY Eff From - Eff To : 1/1/2020 
+PRIMARY Patient Relation To : Self 
+PRIMARY Insurance Type : INDEMNITY 
+PRIMARY Group Number : 40550
+PRIMARY Subscriber ID : 927577233
+PRIMARY Subscriber DOB : 09/14/1929
+SECONDARY Insurance Company :  
+SECONDARY Phone : 
+SECONDARY Plan Name : 
+SECONDARY Payor Name :  
+SECONDARY Subscriber Name : 
+SECONDARY Claim Address :  
+SECONDARY Eff From - Eff To :  
+SECONDARY Patient Relation To :  
+SECONDARY Insurance Type :  
+SECONDARY Group Number : 
+SECONDARY Subscriber ID : 
+SECONDARY Subscriber DOB : 
+TERTIARY Insurance Company :  
+TERTIARY Phone : 
+TERTIARY Plan Name : 
+TERTIARY Payor Name :  
+TERTIARY Subscriber Name : 
+TERTIARY Claim Address :  
+TERTIARY Eff From - Eff To :  
+TERTIARY Patient Relation To :  
+TERTIARY Insurance Type :  
+TERTIARY Group Number : 
+TERTIARY Subscriber ID : 
+TERTIARY Subscriber DOB : 

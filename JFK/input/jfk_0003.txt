@@ -1,0 +1,58 @@
+“obPage 1 of 2
+JFK Medical Center - Insurance Information
+Printed: February 29, 2020 MRN: 103692162 HAR: 80800315358 Patient: BAKSH, SHAIRA
+ENCOUNTER - 2/24/2020 CSN: 5063518878
+Patient Class: Inpatient Unit: JEK AC ICU “i
+Hospital Service: MCU (MEDICAL ICU) Room Bed: 442401
+Admitting Provider: Nehabahen Shah, MD Adm Diagnosis: Subdural hematoma (HCC) [S06.5X9A]
+Attending Provider: Nehabahen Shah, MD Admit Source: Transfer from SNF , CF *
+PATIENT —-———__
+Name: ( BAKSH, SHAIRA 5 Race: OTHER ASIAN DOB: 10/25/1936 (83 yrs)
+Address: oo Caren Renal" .6l Rates Ethnicity: Not: Spanish Or Hispanie* Sex: Female
+City SCOTCH PLAINS, NJ 07076 Language: HINDI MS: Married
+PCP. Nehababen Shah, MD Religion’ NONE Primary 998-889-500;
+Phone:
+GUARANTOR
+Guarantor: BAKSH SHAIRA Date of Bint: 10/25/1936 ‘
+Address: Ashbrook Care and Rehab Center 1610 Raritan Rd Sex: Female
+SCOTCH PLAINS, NI0707%6
+Relation. Self Home Phone: 908-889-5500. .
+Guarantor, 110895110 Work Phone:
+Guarantor Employer: RETIRED Status: RETIRED
+EMERGENCY CONTACT
+Contaet Name Leval Guardian? Relationshio to Patient Primary Phone
+| BAKSH.AMED Child - Daughter/Son To 908-531-8021
+2 bakshaklima Pt. 908-754-7973
+Child - Daughter/Son To:
+Pt.
+COVERAGE
+PRIMARY INSURANCE - Authorization Number: NA) 0 09 aa
+insurance: MEDICARE Phone: Plan: MEDICARE PART A ONLY
+Company
+Payor Name: MEDICARE Subscriber Name: BAKSH,SHAIRA Claim: PO BOX 890030
+Address CAMP HILL, PA 17089-0030
+Cif From ~ BAY 10/1/2001 - Pat. Rel. to Self Insurance: INDEMNITY
+to Subscriber Type
+Group Number Subseriber ID 2EJIGASHXOS Sub. DOB: 10/25/1936
+SECONDARY INSURANCE - Authorization Number apt) ME ee
+Insurance HORIZON BC/BS OF Phone: Plan: BCBS HORIZON FEDERAL
+Company NI BBs.
+Payor Name HORIZON BC’BS OF — Subseriber Name! BAKSH.SHAIRA Claim P.0. BOX 636
+NJ Address: Newark, NJ 07101-0656
+EfY From — BFE 8/1/2017 - Pat. Rel to SELF insurance INDEMNITY
+To Subscriber Type: wel
+Group Number low Subscriber ID: RS8857806 Sub. DOB: 1025/1936
+TERTIARY INSURANCE - Authorization Number NIA es Pee ee
+Insurance: Phone: Plan:
+Company
+Payor Name Subscriber Name: Claim
+Address:
+FAY From ~ Eff - Pat. Rel. to Insurance:
+To Subscriber Type:
+so aa —iemas wrt
+Reierred By Destination, 1.2.04 hj _ har Gor
+ag pp ee
+Crum OP ie 5 BVT w yd
+“ ae qe ~ mgr
+- : UL
+Printed by SANTIAGO, ARTHUR F (522235: at 2/29/2020 6:06:48 PM senha

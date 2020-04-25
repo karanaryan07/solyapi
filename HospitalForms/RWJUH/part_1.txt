@@ -1,0 +1,21 @@
+Name
+Visit #
+MR #
+BirthDate
+Age
+Gender
+SSN
+MaritalStatus
+Patient Type
+Visit Type
+Visit Status
+Admitting MD
+Admit Date/Time
+Location
+Service
+Attending Physician
+Admit Source
+Admit Type
+Admitting DX
+Patient Address/Phone
+Insurance PRIMARY

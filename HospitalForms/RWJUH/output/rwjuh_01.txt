@@ -1,0 +1,52 @@
+Name : BOROVINSKIY, EDUARD
+Visit # : 40031269
+MR # : 8071176
+BirthDate : 08/05/1940
+Age : 79
+Gender : M
+SSN : UNKNOWN
+MaritalStatus : Single
+Patient Type : RH Inpt Acute
+Visit Type : Inpatient
+Visit Status : DSC
+Admitting MD : Prasad, Sudhanshu
+Admit Date/Time : 02162020 0550
+Location : CCU OCCU- Bed
+Service : RH-Kindred Direct
+Attending Physician : Prasad, Sudhanshu
+Admit Source : Acute Hosp. Transfer
+Admit Type : Unknown
+Admitting DX : ACUTE MI
+Patient Address/Phone : 174 AMBERLY DR UNITB ENGLISHTOWN NI 07726 Home 732 617-6415
+Primary PlanName : MEDICARE A
+Primary Phone Number : 717 303-3709
+Primary Subscriber Name : EDUARD BOROVINSKIY
+Primary Subscriber SSN : 
+Primary Group Name : 
+Primary Relation to Patient : Guarantor
+Primary Group # : 
+Primary Policy # : 8QY2AHIWCO
+Primary Cert # : 9
+Primary Effective Dt : 12-01-2005
+Primary Insurance Addr : NOVITAS SOLUTIONS, INC 1800 CENTER STREET
+Primary City : CAMP HILL
+Primary State : PA
+Primary Zip : 17089
+Secondary PlanName : HORIZON NJ HEALTH
+Secondary Phone Number : 
+Secondary Subscriber Name : EDUARD BOROVINSKIY
+Secondary Subscriber SSN : 
+Secondary Group Name : 
+Secondary Relation to Patient : Guarantor
+Secondary Group # : 
+Secondary Policy # : 71969323
+Secondary Cert # : 
+Secondary Effective Dt : 
+Secondary Insurance Addr : PO BOX 7117
+Secondary City : LONDON
+Secondary State : KY
+Secondary Zip : 40742
+Designated Representative Name : BOROVINSKIY, VLADIMIR
+Designated Representative Relationship : Child
+Designated Representative Address : 174 AMBERLY DR UNITB ENGLISHTOWN NI 07726
+Designated Representative Home : 73261

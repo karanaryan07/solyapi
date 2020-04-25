@@ -1,0 +1,56 @@
+“%bPage | of 2
+JFK Medical Center - Insurance Information
+Printed: February 28, 2020 MRN: 101123391 HAR: 80800327387 Patient: BRZOSTOWSKI, ARTHUR
+ENCOUNTER - 2/27/2020 CSN: 5063697930
+Patient Class: Inpatient Unit JFK 3 SOUTH TOW?
+Hospital Service: MED (MEDICINE) Room/Bed: 3108/02
+Admitting Provider: Sudhanshu Prasad, MD Adm Diagnosis: Hyponatremia (E87.1]
+‘Altending Provider: Niloo Prasad, MD Admit Source: Non-healtheare Facility
+PATIENT =53-————__
+Name: (_BRZOSTOWSKI, ARTHUR 2 Race: WHITE DOB: TAS1947 (72 yrs)
+Address: 208 THORPE AVE AVENEL NJ 07001 Ethnicity: Not: Spanish Or Hispanic* Sex: Male
+City AVENEL, NJ07001 Language: ENGLISH MS: Married
+PCP, Claire Bomstein, PA Religion: OTHER Primary 732.634-3485:,
+Phone:
+GUARANTOR
+Guarantor: BRZOSTOWSKLAR THUR Date of Birth: 7/15/1947
+Address: 208 THORPE AVE ‘Sex: Male
+AVENEL, NJ 07001
+Relation: Self Home Phone; 732-634-3485
+Guarantor: 111269395, Work Phone:
+Guarantor Employer Status: RETIRED
+EMERGENCY CONTACT
+Contact Name Legal Guardian? Relationship to Patient Primary Phone
+1. Braotowski Patsicia No Spouse 732-439-2335
+2. *No Contact Specified*
+COVERAGE
+PRIMARY INSURANCE = Authorization Number NAT 4 ee Rea atic
+Insurance MEDICARE Phone: Plan MEDICARE PART A AND B
+Company
+Payor Name MEDICARE Subscriber Name: BRZOSTOWSKIARTHUR Chaim PO BOX 890030,
+Address’ CAMP HILL, PA 17089-0030
+Eff From ~ EAT T2012 - Pat, Rel. to Self Insurance INDEMNITY
+To. Subscriber Type:
+Group Number Subscriber ID: STOOPVOHIV21 Sub. DOB 07/15/1947
+SECONDARY INSURANCE - Authorization Number NPR 9 eps i
+insurance CIGNA Phone: Plan: CIGNA MEDICARE
+Company SUPPLEMEN*
+Payor Name: CIGNA Subscriber Name: BRZOSTOWSKI,ARTHUR: Claim: PO BOX 30010
+Address: AUSTIN, TX 78755-3010
+Ef From EM 5/1/2019 Pat. Rel to SELF Insurance INDEMNITY
+To: ‘Subscriber: Type:
+Group Number: ‘Subscriber ID: 8070300035 Sub, DOB: TAS/947
+TERTIARY INSURANCE - Authorization Number: NAO 7) 0 9) PES ;
+Insurance Phone: Plan:
+‘Company:
+Payor Name Subseriber Name Claim
+‘Address:
+EM From - Eff : Pat, Rel. to Insurance:
+To Subseriber Type
+Group Number: Subscriber ID: Sub, DOB:
+Referred By Destination: 1. 2.03. hyn! r
+fe ee
+Coverin Dep. (7 ,
+a cay
+\
+Printed by SANTIAGO, ARTHUR F 522235: at 2/28/2020 2:46:18 PM

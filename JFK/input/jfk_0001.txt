@@ -1,0 +1,57 @@
+“obPage | of 2
+JFK Medical Center - Insurance Information
+Printed: February 21, 2020 MRN: 103711817 HAR: 80800299887 Patient: AHMED, MOHSEN A 5
+ENCOUNTER - 2/16/2020 CSN: 5062965093
+Patient Class: Inpatient Unit: JFK 4 NORTH
+Hospital Service MED (MEDICINE) Room Bed: 4315/02
+Admitting Provider) Tamer A Behman, MD. Adm Diagnosis: Acute pulmonary edema (HCC) [J81.0]
+Attending Provider: Tamer A Behman, MD Admit Source: Non-healthcare Facility
+PATIENT =|"
+Fa >)
+Name: i AHMED, MOHSEN A) Race: OTHER RACE DOB: 9/10/1946 (73 yrs)
+Address: 49 MARION ST Ethnicity Not: Spanish Or Hispanic* Sex: Male
+City PORT READING, NJ 07004 Language: ARABIC MS: Married
+PCP: Tamer A Behan, MD Religion: MUSLIM Primiaty 732-35 1-0904;.732-35 1-0904
+Phone:
+GUARANTOR
+Guarantor: AHMED,MOHSEN A Date of Birth: 9/10/1946
+Address: 49 MARION ST. ‘Sex: Male
+PORT READING, NJ 07064
+Relation: Seif Home Phone: 732-351-0904
+Guarantor: 110884513 Work Phone:
+Guarantor Employer: retired Status: RETIRED wa
+EMERGENCY CONTACT
+Contact Name Lewal Guardian’? Relationship to Patient Primary Phone
+1. mohamedahmed,eiman Child - Daughter/Son To 732-351-0904
+2. *No Contact Specified* m
+COVERAGE
+PRIMARY INSURANCE - Authorization Number: A WEES as
+Insurance: MEDICARE Phone: Plan: MEDICARE PART B ONLY
+Company
+Payor Name: MEDICARE Subscriber Name: AHMED.MOHSEN A Claim PO BOX 890030
+‘Address: CAMP HILL, PA 17089-0030
+EAT From ~ Eff OV2O1 - Pat. Rel. to Self Insurance INDEMNITY
+to: Subseriber: Type:
+Group Number: Subscriber ID: 6QUTEISAUAT Sub, DOB 09/10/1946
+SECONDARY INSURANGE = Authorization Number: A092146808.. eae
+Insurance MEDICAID Phone: Plan: MCAID UHC COMMUN PL
+Company MANAGED CA*
+Payor Name MEDICAID Subscriber Name: AHMED,MOHSEN A Claim PO BOX 5250
+MANAGED CA* Address: KINGSTON, NY 12402-3250
+Eff From ~ Eft 1/1/2019 - Pat. Rel to SELF Insurance: INDEMNITY
+To Subseriber Type:
+Group Number: NJFAMCAR Subscriber ID: 102082982 Sub. DOB: 9/0/1946
+TERTIARY. INSURANCE - Authorization Nambsn Nia SOE NR ee
+Insurance: Phone: Plan:
+Company
+Payor Name: Subseriber Name: Claim
+Address
+Eff From ~ Ett - Pat. Rel. to Insurance
+To: Subscriber Type
+Group Number: Subscriber ID: Sub. DOB : aut
+Reterred By: Destination: 1 2% 3, 4. \ ab
+gia
+mi G “ae NS
+ao" Ot
+ger 8
+Printed by SANTIAGO, ARTHUR F 522235 at 2/21/2020 10:19:19 AM

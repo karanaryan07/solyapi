@@ -1,0 +1,15 @@
+Printed
+MRN
+HAR
+Patient
+ENCOUNTER
+CSN
+Patient Class
+Unit
+Hospital Service
+Room/Bed
+Admitting Provider
+Adm Diagnosis
+Attending Provider
+Admit Source
+PATIENT

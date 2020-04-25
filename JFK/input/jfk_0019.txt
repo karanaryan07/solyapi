@@ -1,0 +1,56 @@
+“obPage | of 2
+JFK Medical Center - Insurance Information
+Printed: February 21, 2020 MRN: 103687021 HAR: 80800303576 Patient: LICASTRI, COSTANTINO
+ENCOUNTER - 2/19/2020 CSN: 5063117221
+Patient Class: Inpatient - Unit: JFK AC CCU
+Hospital Service: CCU (CORONARY CARE ICU) Room/Bed: 441701
+Admitting Provider: Stanley $ Kim, MD Adm Diagnosis; Acute pulmonary edema (HCC) [J81.0|
+Attending Provider Stanley S Kim, MD. Admit Source: Non-healthcare Facility
+PATIENT —-——< OO
+Name: C LICASTRI, COSTAN ino) Race: WHITE DOB: 7/31/1937 (82 yrs)
+Address: 106 ELMHURST AVE Ethnicity Not: Spanish Or Hispanic™ Sex: Male
+City; ISELIN, NJ 08830 Language: ENGLISH MS: Married
+PCP: Katalin Horvath, MD Religion: | ROMAN CATHOLIC Pointy 5. “7edeyaS See aa Be ORN
+Phone: 732-735-5368
+GUARANTOR
+Guarantor’ LICASTRI.COSTANTINO- Date of Birth: 7/31/1937
+Address: 106 ELMHURST AVE Sex: Male
+ISELIN, NJ 08830
+Relation: Self Home Phone: 732-735-5368
+Guarantor: 110927284 Work Phone: 732-283-0294
+Guarantor Employer Status: RETIRED
+EMERGENCY CONTACT
+Contact Name Leval Guardian? Relationship to Patient — Primary Phone
+1. DONNA KITTEL Child - Daughter/Son To 732-754-8408.
+2. DELLAVALLE.LISA Pi. 732-283-0294
+Child - Daughter/Son To
+Pt.
+COVERAGE
+. PRIMARY INSURANCE & Aultintamion Nuiiber NASI WL GoLie mien ta Cee Ree URS Ca
+Insurance MEDICARE Phone: Plan: MEDICARE PART A AND B
+‘Company
+Payor Name: MEDICARE Subscriber Name: LICASTRI,COSTANTINO Claim PO BOX 890030
+Address: CAMP HILL, PA 17089-0030
+Eff From — Eff 7/1/2002 - Pat. Rel. to Self Insurance INDEMNITY
+To: Subscriber: Type:
+Group Number Subscriber 1D: 9FKINPIHMAG Sub. DOB: 07/31/1937
+SECONDARY INSURANCE © Authorization Number: npr) DES
+Insurance MCARE HORIZON Phone Plan BCBS MCARE HORIZON
+Company SUPPL*
+Payor Name: MCARE HORIZON Subscriber Name: LICASTRI,COSTANTINO Claim P.O.BOX 1609
+Address: NEWARK, NJ 07101-1609
+EY From ~ EAP 11/1/2002 - Pat. Rel to. SELF Insurance INDEMNITY
+To. Subscriber ‘Type:
+Group Number PLANE Subscriber 1D. YHR3HZN99073150 Sub. DOB 7/31/1937
+TERTIARYINSURANCE <A tihorization Number MAGS Unease his aman eon nena Ro nc EN
+Insurance: Phone: Plan:
+Company
+Payor Name: Subscriber Name: Claim:
+Address:
+EIT From ~ Ett - Pat. Rel. to Insurance
+To: Subscriber: ‘Type:
+Group Number Subscriber ID: Sub. DOB:
+Referred By Destination: 1, 23.4 mre
+Cue hi TE oat
+ean
+Printed by SANTIAGO, ARTHUR F “522235. at 2/21/2020 10:22:48 AM

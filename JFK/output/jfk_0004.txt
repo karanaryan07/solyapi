@@ -1,0 +1,72 @@
+Printed : February 21, 2020
+MRN : 101059845
+HAR : 80800298757
+Patient : BLODGETT, RAYMOND
+ENCOUNTER : 2/14/2020
+CSN : 5062916472
+Patient Class : Inpatient
+Unit : JFK 4 WEST
+Hospital Service : MED (MEDICINE)
+Room/Bed : 4211/01
+Admitting Provider : Tamer A Behman, MD
+Adm Diagnosis : Cellulitis of left hand [03.114]
+Attending Provider : , Tamer A Behman, MD
+Admit Source : Non-healtheare Facility
+Name : BLODGET a, RAYMOND
+Race : WHITE
+DOB : 9/25/1974 (45 yrs)
+Address : 167 ROSEWOOD LANE
+Ethnicity : Not Spanish Or Hispanic*
+Sex : Male
+City : PORT READING, NJ 07064
+Language : ENGLISH
+MS : Single
+PCP : Pep Not In System
+Religion : OTHER Pri
+Primary Phone : 2169
+Guarantor Name : BLODGETTRAYMOND
+Guarantor Date of Birth : 9/25/1974
+Guarantor Address : 167 ROSEWOOD LANE PORT READING NJ  i
+Guarantor Sex : Male
+Guarantor Relation : Self
+Guarantor Home Phone : 732-969-2169
+Guarantor ID : 111250692
+Guarantor Work Phone : 
+Guarantor Employer : 
+Guarantor Status : NOT EMPLO wd
+PRIMARY Insurance Company : MEDICAID MANAGED CA
+PRIMARY Phone : 
+PRIMARY Plan Name : MCAID UHC COMMUN PL
+PRIMARY Payor Name : MEDICAID MANAGED CA
+PRIMARY Subscriber Name : BLODGETT,RAYMOND
+PRIMARY Claim Address : PO BOX 250 MANAGED CARE KINGSTON, NY 124025250
+PRIMARY Eff From - Eff To : 1/1/2020 - 
+PRIMARY Patient Relation To : Self 
+PRIMARY Insurance Type : INDEMNITY 
+PRIMARY Group Number : NIFAMCAR
+PRIMARY Subscriber ID : 116260433
+PRIMARY Subscriber DOB : 09/25/1974
+SECONDARY Insurance Company :  
+SECONDARY Phone : 
+SECONDARY Plan Name : 
+SECONDARY Payor Name :  
+SECONDARY Subscriber Name : 
+SECONDARY Claim Address :  
+SECONDARY Eff From - Eff To :  
+SECONDARY Patient Relation To :  
+SECONDARY Insurance Type :  
+SECONDARY Group Number : 
+SECONDARY Subscriber ID : 
+SECONDARY Subscriber DOB : 
+TERTIARY Insurance Company :  
+TERTIARY Phone : 
+TERTIARY Plan Name : 
+TERTIARY Payor Name :  
+TERTIARY Subscriber Name : 
+TERTIARY Claim Address :  
+TERTIARY Eff From - Eff To :  
+TERTIARY Patient Relation To :  
+TERTIARY Insurance Type :  
+TERTIARY Group Number : 
+TERTIARY Subscriber ID : 
+TERTIARY Subscriber DOB : 

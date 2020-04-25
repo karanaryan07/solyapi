@@ -1,0 +1,52 @@
+Name : 
+Visit # : 
+MR # : 
+BirthDate : 
+Age : 
+Gender : 
+SSN : 
+MaritalStatus : 
+Patient Type : 
+Visit Type : 
+Visit Status : 
+Admitting MD : 
+Admit Date/Time : 
+Location : 
+Service : 
+Attending Physician : 
+Admit Source : 
+Admit Type : 
+Admitting DX : 
+Patient Address/Phone : 
+Primary PlanName : 
+Primary Phone Number : 
+Primary Subscriber Name : 
+Primary Subscriber SSN : 
+Primary Group Name : 
+Primary Relation to Patient : 
+Primary Group # : 
+Primary Policy # : 
+Primary Cert # : 
+Primary Effective Dt : 
+Primary Insurance Addr : 
+Primary City : 
+Primary State : 
+Primary Zip : 
+Secondary PlanName : 
+Secondary Phone Number : 
+Secondary Subscriber Name : 
+Secondary Subscriber SSN : 
+Secondary Group Name : 
+Secondary Relation to Patient : 
+Secondary Group # : 
+Secondary Policy # : 
+Secondary Cert # : 
+Secondary Effective Dt : 
+Secondary Insurance Addr : 
+Secondary City : 
+Secondary State : 
+Secondary Zip : 
+Designated Representative Name : 
+Designated Representative Relationship : 
+Designated Representative Address : 
+Designated Representative Home : 

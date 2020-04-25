@@ -1,0 +1,72 @@
+Printed : February 28, 2020
+MRN : 104304170
+HAR : 80800328565
+Patient : JARRETT, MALIK
+ENCOUNTER : 2/27/2020
+CSN : 5063738516
+Patient Class : Observation
+Unit : JFK 2 ACCESS CE
+Hospital Service : CDU (OBSERVATION PT)
+Room/Bed : 2012/01
+Admitting Provider : 
+Adm Diagnosis : Hypertensive emergency [116.1]
+Attending Provider : Sudhanshu Prasad, MD
+Admit Source : Non-healtheare Facility
+Name : Cian IT,
+Race : x ites  TEASECRAFRICAN
+DOB : 1226/197
+Address : rs pasion AMERICAN  shedhese  a ESB eIRE ELSER HERSEMACI
+Ethnicity : Not Spanish Or Hispanie*
+Sex : Male NJOTII
+City : JERSEY CITY, NJO7311
+Language : ENGLISH
+MS : Single
+PCP : Pep Not In System
+Religion : MUSLIM P
+Primary Phone : 7-206
+Guarantor Name : JARRETT,MALIK
+Guarantor Date of Birth : 12/26/1976
+Guarantor Address : HARBORSIDE PLACE JERSEY CITY NJ
+Guarantor Sex : Male
+Guarantor Relation : Self
+Guarantor Home Phone : 704-957-2034
+Guarantor ID : 111270286
+Guarantor Work Phone : 
+Guarantor Employer : CONRAIL
+Guarantor Status : FULL TIME
+PRIMARY Insurance Company : AETNA 
+PRIMARY Phone : 
+PRIMARY Plan Name : AETNA HMO
+PRIMARY Payor Name : AETNA 
+PRIMARY Subscriber Name : JARRETTMALIK
+PRIMARY Claim Address : PO BOX 981106 EL PASO TX 799981106
+PRIMARY Eff From - Eff To : 5/1/2015 - 
+PRIMARY Patient Relation To : Self 
+PRIMARY Insurance Type : INDEMNITY 
+PRIMARY Group Number : 072458201000109
+PRIMARY Subscriber ID : W218971328
+PRIMARY Subscriber DOB : 1226/1976
+SECONDARY Insurance Company :  
+SECONDARY Phone : 
+SECONDARY Plan Name : 
+SECONDARY Payor Name :  
+SECONDARY Subscriber Name : 
+SECONDARY Claim Address :  
+SECONDARY Eff From - Eff To :  
+SECONDARY Patient Relation To :  
+SECONDARY Insurance Type :  
+SECONDARY Group Number : 
+SECONDARY Subscriber ID : 
+SECONDARY Subscriber DOB : 
+TERTIARY Insurance Company :  
+TERTIARY Phone : 
+TERTIARY Plan Name : 
+TERTIARY Payor Name :  
+TERTIARY Subscriber Name : 
+TERTIARY Claim Address :  
+TERTIARY Eff From - Eff To :  
+TERTIARY Patient Relation To :  
+TERTIARY Insurance Type :  
+TERTIARY Group Number : 
+TERTIARY Subscriber ID : 
+TERTIARY Subscriber DOB : 

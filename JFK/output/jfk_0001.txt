@@ -1,0 +1,72 @@
+Printed : February 21, 2020
+MRN : 103711817
+HAR : 80800299887
+Patient : AHMED, MOHSEN A
+ENCOUNTER : 2/16/2020
+CSN : 5062965093
+Patient Class : Inpatient
+Unit : JFK 4 NORTH
+Hospital Service : MED (MEDICINE)
+Room/Bed : 4315/02
+Admitting Provider : Tamer A Behman, MD
+Adm Diagnosis : Acute pulmonary edema (HCC) [J81.0]
+Attending Provider : Tamer A Behman, MD
+Admit Source : Non-healthcare Facility
+Name : i AHMED, MOHSEN A
+Race : OTHER RACE
+DOB : 9/10/1946 (73 yrs)
+Address : 49 MARION ST
+Ethnicity : Not Spanish Or Hispanic*
+Sex : Male
+City : PORT READING, NJ 07004
+Language : ARABIC
+MS : Married
+PCP : Tamer A Behan, MD
+Religion : MUSLIM P
+Primary Phone : 5 1-0904732-35 1-0904
+Guarantor Name : AHMED,MOHSEN A
+Guarantor Date of Birth : 9/10/1946
+Guarantor Address : 49 MARION ST PORT READING NJ
+Guarantor Sex : Male
+Guarantor Relation : Seif
+Guarantor Home Phone : 732-351-0904
+Guarantor ID : 110884513
+Guarantor Work Phone : 
+Guarantor Employer : retired
+Guarantor Status : RETIRED wa
+PRIMARY Insurance Company : MEDICARE 
+PRIMARY Phone : 
+PRIMARY Plan Name : MEDICARE PART B ONLY
+PRIMARY Payor Name : MEDICARE 
+PRIMARY Subscriber Name : AHMEDMOHSEN A
+PRIMARY Claim Address : PO BOX 890030 CAMP HILL, PA 170890030
+PRIMARY Eff From - Eff To : 21 - 
+PRIMARY Patient Relation To : Self 
+PRIMARY Insurance Type : INDEMNITY 
+PRIMARY Group Number : 
+PRIMARY Subscriber ID : 6QUTEISAUAT
+PRIMARY Subscriber DOB : 09/10/1946
+SECONDARY Insurance Company : MEDICAID MANAGED CA
+SECONDARY Phone : 
+SECONDARY Plan Name : MCAID UHC COMMUN PL
+SECONDARY Payor Name : MEDICAID MANAGED CA
+SECONDARY Subscriber Name : AHMED,MOHSEN A
+SECONDARY Claim Address : PO BOX 5250 MANAGED CA KINGSTON, NY 124023250
+SECONDARY Eff From - Eff To : 1/1/2019 
+SECONDARY Patient Relation To : o SELF 
+SECONDARY Insurance Type : INDEMNITY 
+SECONDARY Group Number : NJFAMCAR
+SECONDARY Subscriber ID : 102082982
+SECONDARY Subscriber DOB : 9/0/1946
+TERTIARY Insurance Company :  
+TERTIARY Phone : 
+TERTIARY Plan Name : 
+TERTIARY Payor Name :  
+TERTIARY Subscriber Name : 
+TERTIARY Claim Address :  
+TERTIARY Eff From - Eff To :  
+TERTIARY Patient Relation To :  
+TERTIARY Insurance Type :  
+TERTIARY Group Number : 
+TERTIARY Subscriber ID : 
+TERTIARY Subscriber DOB : 

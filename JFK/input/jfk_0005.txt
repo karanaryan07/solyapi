@@ -1,0 +1,56 @@
+“bPage | of 2
+JFK Medical Center - Insurance Information
+Printed: February 21, 2020 MRN: 103690809 HAR: 80800297578 Patient: BOONE, MATTHEW 0.
+ENCOUNTER - 2/13/2020 CSN: 5062869585
+Patient Class: Inpatient Unit: JFK 5 NORTH
+Hospital Service: MED (MEDICINE) Room/Bed: $313/01
+Admitting Provider: Inderjit Kainth, MD Adm Diagnosis: DKA (diabetic ketoacidoses) (HCC) [E11.*
+Attending Provider Inderjit Kainth, MD Admit Source: Non-healtheare Facility
+PATIENT aa
+Name (BOONE, MATT newo) Race ree a DOB: 9/27/1966 (53 yrs)
+KR AMERICAN
+Address: HOMELESS: Ethnicity: Not; Spanish Or Hispanic* Sex: Male
+City: PLAINFIELD, NJ 07060 Language: ENGLISH MS: Single
+PCP. Not On Staff Physician Religion: NON-DENOMINATIONAL eee 999.999.9999;
+GUARANTOR ==
+Guaranto€ BOONE,MATTHEW O_> Date of Birth: 9/27/1966
+Address: HOMELESS Sex: Male
+PLAINFIELD, NJ 07060
+Relation: Self Home Phone: 999-999-9999
+Guarantor: 111249409 Work Phone:
+Guarantor Employer: NONE Status: NOT EMPLO*
+EMERGENCY CONTACT
+Contact Name Legal Guardian? Relationship to Patient — Primary Phone
+1. BOONE,TOM No Sibling 908-391-3777,
+2. BOONE,BUD No Sibling 908-444-1863
+COVERAGE
+PRIMARY INSURANCE - ‘Authorization Number. 4057423). SEN AM eee
+Insurance MEDICAID Phone: Plan: MCAID WELLCARE
+Company MANAGED CA*
+Payor Name: MEDICAID Subscriber Name: BOONE.MATTHEW O Claim PO BOX 31224
+MANAGED CARE Address: TAMPA, FL 33631
+EIErom Eff 2/13/2020- Pat. Rel. to Self Insurance INDEMNITY
+To: Subseriber: Type:
+Group Number 1 Subscriber ID: 23081123 Sub. DOB: 0927/1966
+SRCONDARWINSURANCE: Aulhonaatioa Number NAL Ga i OM
+Insurance: Phone: Plan:
+Company
+Payor Name Subseriber Name: Claim PO BOX 4802
+Address: Trenton, NJ 086350
+EH From ~ Eff - Pat. Relto Insurance:
+To. Subscriber: Type:
+Group Number: ‘Subseriber 1D: Sub. DOB:
+TERTIARY INSURANCE 2 Authorization NuMbeE NAL Lon ee ee Se a ens
+Insurance: Phone: Plan:
+Company
+Payor Name Subscriber Name Claim
+Address:
+Eff From — Eff - Pat. Rel. to Insurance
+To: Subscriber: Type: rf
+Group Number: Subscriber ID: Sub. DOB: 3 \
+Referred By Destination 234 , ye
+re ff
+ow ' aby Ore
+ety Se
+on pv
+Printed by SANTIAGO, ARTHUR F (522235. at sisfionon 10:23:25 AM

@@ -1,0 +1,56 @@
+“obPage 1 of 2
+JFK Medical Center - Insurance Information
+Printed: March 1, 2020 MRN: 101863198 HAR: 80800333130 Patient: JASTRZEBSKI, DENNIS
+ENCOUNTER - 2/29/2020 CSN: 5063831914
+Patient Class: Inpatient Unit: JFK $ NORTH
+Hospital Service: MED (MEDICINE) Room/Bed: 5310/02
+Admitting Provider: Emily R Felzenberg, DO Adm Diagnosis: Bladder tumor [D49.4]
+Attending Provider: Emily R Felzenberg, DO Admit Source: Non-healtheare Facility
+PATIENT --———--~_
+Name: Ci JASTRZEBSKI, DENNIS) Race: WHITE DOB: 1/13/1956 (64 yrs)
+Address: po box 6904 FREEHOLD NJ 07728 Ethnicity: Not: Spanish Or Hispanic* Sex. Male
+City FREEHOLD, NJ 07728 Language: ENGLISH MS: Married
+PCP: Pep Not In System Religion: OTHER Primary 332-299-3997:
+Phone:
+GUARANTOR
+Guarantor: JASTRZEBSKI,DENNIS Date of Birth: 1/13/1956
+Address: po bax 6904 Sex: Male
+FREEHOLD, NJ 07728
+Relation, Self Home Phone: 732-299-3997
+Guarantor, 111272948, Work Phone:
+Guarantor Employer Status: UNKNOWN
+EMERGENCY CONTACT
+‘Contact Name Leval Guardian? Relationship to Patient Primary Phone
+|. unknown,unknown None 999.999.9999
+2. *No Contact Specified*
+COVERAGE
+‘PRIMARY. INSURANGE © Authorization Numbed NIAC c ss Seti AIR aera LORS ae aE ES
+Insurance HMH Phone: Plan: HMH COMPASSIONATE CARE
+Company COMPASSIONATE
+co
+Payor Name: HMH Subscriber Name: JASTRZEBSKI,DENNIS Claim po box 6904
+COMPASSIONATE Address: FREEHOLD, NJ 07728
+CARE
+Eff From - Eff 2/29/2020 - Pat. Rel. to Self Insurance INDEMNITY
+To: ‘Subscriber: ‘Type:
+Group Number Subscriber ID: Sub. DOB: OL/13/1956
+SECONDARY INSURANCE 2 Ahorizaton Nuinbass VALE 10 20s isniGaleheny ON
+Insuranee Phone: Plan:
+Company
+Payor Name: Subscriber Name: Claim
+Address:
+Eff From ~ Eff # Pat. Rel to Insurance
+To. Subscriber: Type:
+Group Number Subseriber ID Sub, DOB.
+‘TERTIARY INSURANCE 2A ionization Numbers NIA Si G01 22 DUNS SIs NES Se NE
+Insurance Phone: Plan:
+‘Company
+Payor Name: Subscriber Name: Claim
+Address:
+Eff From ~ Eff - Pat. Rel. to Insurance
+To: Subscriber: Type:
+Group Number: Subscriber ID: Sub, DOB:
+Referred By Destination: 1. = 203.4. 2c
+Guero? “ 31- wige’
+Q pou?
+Printed by SANTIAGO, ARTHUR F 7522235” at 3/1/2020 11:12:46 AM

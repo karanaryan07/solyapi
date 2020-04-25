@@ -1,0 +1,72 @@
+Printed : February 8, 2020
+MRN : 101877066
+HAR : 80800279413
+Patient : JOHNSON, GAIL E a
+ENCOUNTER : 1/30/2020
+CSN : 5061720604
+Patient Class : Inpatient
+Unit : JEK 4 WEST a
+Hospital Service : MED (MEDICINE)
+Room/Bed : 4209/01
+Admitting Provider : Pradip A Shah, MD
+Adm Diagnosis : Pneumonia [J18.9]
+Attending Provider : Nehabalten Shab, MD
+Admit Source : Transfer from SNF ICF
+Name : CIouNSON, GAIL E
+Race : WHITE
+DOB : 4/26/197
+Address : rs CAREONE AT THE HIGHLANDS 1350 Adit ee
+Ethnicity : Not Spanish Or Hispanie*
+Sex : Female
+City : EDISON, NJ 08820
+Language : ENGLISH
+MS : Married
+PCP : Nehabahen Shah, MD
+Religion : ROMAN CA
+Primary Phone : -489-5223008-754-7100
+Guarantor Name : JOHNSON,GAIL E
+Guarantor Date of Birth : 4/26/1971
+Guarantor Address : CAREONE AT THE HIGHLANDS 1350 Inman Avenue EDISON NJ
+Guarantor Sex : Female
+Guarantor Relation : Self
+Guarantor Home Phone : 732-489-5223
+Guarantor ID : 110899132
+Guarantor Work Phone : 
+Guarantor Employer : unemployed
+Guarantor Status : NOT EMPLO
+PRIMARY Insurance Company : HORIZON BCBS OF NI
+PRIMARY Phone : 
+PRIMARY Plan Name : BCBS HORIZON OMNIA
+PRIMARY Payor Name : HORIZON BCBS OF NI
+PRIMARY Subscriber Name : JOHNSON,MICHAEL
+PRIMARY Claim Address : PO BOX 1609 NJ NEWARK, NJ 071011609
+PRIMARY Eff From - Eff To : 1/1/2018 
+PRIMARY Patient Relation To : Spouse 
+PRIMARY Insurance Type : INDEMNITY 
+PRIMARY Group Number : 00815450050
+PRIMARY Subscriber ID : YKT3HZNO0221 1680
+PRIMARY Subscriber DOB : 09/12/1967
+SECONDARY Insurance Company :  
+SECONDARY Phone : 
+SECONDARY Plan Name : 
+SECONDARY Payor Name :  
+SECONDARY Subscriber Name : 
+SECONDARY Claim Address :  
+SECONDARY Eff From - Eff To :  
+SECONDARY Patient Relation To :  
+SECONDARY Insurance Type :  
+SECONDARY Group Number : 
+SECONDARY Subscriber ID : 
+SECONDARY Subscriber DOB : 
+TERTIARY Insurance Company :  
+TERTIARY Phone : 
+TERTIARY Plan Name : 
+TERTIARY Payor Name :  
+TERTIARY Subscriber Name : 
+TERTIARY Claim Address :  
+TERTIARY Eff From - Eff To :  
+TERTIARY Patient Relation To :  
+TERTIARY Insurance Type :  
+TERTIARY Group Number : 
+TERTIARY Subscriber ID : 
+TERTIARY Subscriber DOB : 

@@ -1,0 +1,53 @@
+YobPage | of 2
+JFK Medical Center - Insurance Information
+Printed: February 21, 2020 MRN: 101059845, HAR: 80800298757 Patient: BLODGETT, RAYMOND
+ENCOUNTER - 2/14/2020 CSN: 5062916472
+Patient Class: Inpatient Unit: JFK 4 WEST
+Hospital Service: MED (MEDICINE) Room/Bed: 4211/01
+Admitting Provider: Tamer A Behman, MD Adm Diagnosis: Cellulitis of left hand [03.114]
+Attending Provider, Tamer A Behman, MD Admit Source: Non-healtheare Facility
+PATIENT-—_,
+Name! { BLODGET a, RAYMOND) Race: WHITE DOB: 9/25/1974 (45 yrs)
+Addtess) 167 ROSEWOOD LANE Ethnicity: Not: Spanish Or Hispanic* Sex: Male
+City PORT READING, NJ 07064 Language: ENGLISH MS: Single
+PCP: Pep Not In System Religion OTHER Primary 532.969.2169
+Phone:
+GUARANTOR
+Guarantor: BLODGETT.RAYMOND Date of Birth: 9/25/1974
+Address’ 167 ROSEWOOD LANE Sex: Male
+PORT READING, NJ 07004 i
+Relation: Self Home Phone: 732-969-2169
+Guarantor: 111250692 Work Phone
+Guarantor Employer: Status: NOT EMPLO* wd
+EMERGENCY CONTACT
+Contact Name. Lewal Guardian? Relationship to Patient Primary Phone.
+1, BLODGETT, RAYMOND: No Father: 732-969-2169,
+2. *No Contact Specified*
+COVERAGE
+PRIMARY. INSURANCE - Authorization Number:/A092018988° © 9
+Insurance: MEDICAID Phone: Plan: MCAID UHC COMMUN PL
+‘Company MANAGED CA*
+Payor Name: MEDICAID Subscriber Name: BLODGETT,RAYMOND Claim PO BOX $250
+MANAGED CARE Address KINGSTON, NY 12402-5250
+Eff From = Eff 1/1/2020 - Pat. Rel. to Self Insurance INDEMNITY
+To: Subseriber Type
+Group Number! NIFAMCAR Subscriber 1D. 116260433 Sub. DOB 09/25/1974
+SHCONDARY INSURANCE - Authorization Number NIA 000 0 a :
+Insurance: Phone: Plan:
+Company
+Payor Name Subscriber Name Claim
+Address
+Eff From - Eff . Pat. Rel to Insurance
+To Subscriber Type
+Group Number Subseriber ID: Sub, DOB:
+TRRTARVINSURANGE © Auliiorization Nunbte NIA one Ou Mani mange en ae eee
+Insurance Phone: Plan:
+Company
+Payor Name: Subscriber Name: Claim
+‘Address:
+EW From- ER Pat Rel. to Insurance
+To Subscriber: Type:
+Group Number Subseriber 1D. Sub, DOB.
+Referred By Destination: 1. im Z, 4.
+Liq 7 WI me
+Printed by SANTIAGO, ARTHUR F 7522235. at 2/21/2020 10:17:39 AM

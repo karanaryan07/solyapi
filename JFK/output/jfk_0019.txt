@@ -1,0 +1,72 @@
+Printed : February 21, 2020
+MRN : 103687021
+HAR : 80800303576
+Patient : LICASTRI, COSTANTINO
+ENCOUNTER : 2/19/2020
+CSN : 5063117221
+Patient Class : Inpatient
+Unit : JFK AC CCU
+Hospital Service : CCU (CORONARY CARE ICU)
+Room/Bed : 441701
+Admitting Provider : Stanley  Kim, MD
+Adm Diagnosis : Acute pulmonary edema (HCC) [J81.0
+Attending Provider : Stanley S Kim, MD
+Admit Source : Non-healthcare Facility
+Name : C LICASTRI, COSTAN ino
+Race : WHITE
+DOB : 7/31/1937 (82 yrs)
+Address : 106 ELMHURST AVE
+Ethnicity : Not Spanish Or Hispanic
+Sex : Male
+City : ISELIN, NJ 08830
+Language : ENGLISH
+MS : Married
+PCP : Katalin Horvath, MD
+Religion : ROMAN
+Primary Phone : 5 7      732-735-5368
+Guarantor Name : LICASTRICOSTANTINO
+Guarantor Date of Birth : 7/31/1937
+Guarantor Address : 106 ELMHURST AVE ISELIN NJ
+Guarantor Sex : Male
+Guarantor Relation : Self
+Guarantor Home Phone : 732-735-5368
+Guarantor ID : 110927284
+Guarantor Work Phone : 732-283-0294
+Guarantor Employer : 
+Guarantor Status : RETIRED
+PRIMARY Insurance Company : MEDICARE 
+PRIMARY Phone : 
+PRIMARY Plan Name : MEDICARE PART A AND B
+PRIMARY Payor Name : MEDICARE 
+PRIMARY Subscriber Name : LICASTRI,COSTANTINO
+PRIMARY Claim Address : PO BOX 890030 CAMP HILL, PA 170890030
+PRIMARY Eff From - Eff To : 7/1/2002 - 
+PRIMARY Patient Relation To : Self 
+PRIMARY Insurance Type : INDEMNITY 
+PRIMARY Group Number : 
+PRIMARY Subscriber ID : 9FKINPIHMAG
+PRIMARY Subscriber DOB : 07/31/1937
+SECONDARY Insurance Company : MCARE HORIZON SUPPL
+SECONDARY Phone : 
+SECONDARY Plan Name : BCBS MCARE HORIZON
+SECONDARY Payor Name : MCARE HORIZON SUPPL
+SECONDARY Subscriber Name : LICASTRI,COSTANTINO
+SECONDARY Claim Address : POBOX 1609 NEWARK,
+SECONDARY Eff From - Eff To :  
+SECONDARY Patient Relation To : Pat Rel to SELF 
+SECONDARY Insurance Type : INDEMNITY 
+SECONDARY Group Number : PLANE
+SECONDARY Subscriber ID : YHR3HZN99073150
+SECONDARY Subscriber DOB : 7/31/1937
+TERTIARY Insurance Company :  
+TERTIARY Phone : 
+TERTIARY Plan Name : 
+TERTIARY Payor Name :  
+TERTIARY Subscriber Name : 
+TERTIARY Claim Address :  
+TERTIARY Eff From - Eff To :  
+TERTIARY Patient Relation To :  
+TERTIARY Insurance Type :  
+TERTIARY Group Number : 
+TERTIARY Subscriber ID : 
+TERTIARY Subscriber DOB : 

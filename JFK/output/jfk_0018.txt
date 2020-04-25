@@ -1,0 +1,72 @@
+Printed : February 29, 2020
+MRN : 102082045
+HAR : 80800328908
+Patient : LEWIS, FRANCES
+ENCOUNTER : 2/27/2020
+CSN : 5063749047
+Patient Class : Inpatient
+Unit : JFK AC CCU
+Hospital Service : MCU (MEDICAL ICU)
+Room/Bed : 4405/01
+Admitting Provider : Niloo Prasad, MD
+Adm Diagnosis : Acute cystitis without hematuria [N30.0*
+Attending Provider : Sudhanshu Prasad, MD
+Admit Source : Non-healthcare Facility
+Name : IENT  Naine C Lewis, FRANCE sy
+Race : WHITE
+DOB : 7/26/1929 (90 yrs) 3 SNYDER AVE SAYREVILLE NJ
+Address : 08872
+Ethnicity : Not Spanish Or Hispanic*
+Sex : Female
+City : , SAYREVILLE, NJ 08872
+Language : ENGLISH
+MS : Widowed
+PCP : , Jagjit Walia
+Religion : RUSSIAN
+Primary Phone : 732-513-3168732-513-3168
+Guarantor Name : LEWIS,FRANCES
+Guarantor Date of Birth : 7/26/1929
+Guarantor Address : 3 SNYDER AVE SAYREVILLE NJ
+Guarantor Sex : Female
+Guarantor Relation : Self
+Guarantor Home Phone : 732-513-3168
+Guarantor ID : 111073034
+Guarantor Work Phone : 
+Guarantor Employer : RETIRED
+Guarantor Status : RETIRED
+PRIMARY Insurance Company : MEDICARE 
+PRIMARY Phone : 
+PRIMARY Plan Name : MEDICARE PART A AND B
+PRIMARY Payor Name : MEDICARE 
+PRIMARY Subscriber Name : LEWISFRANCES
+PRIMARY Claim Address : PO BOX 890030 CAMP HILL, PA 170890030
+PRIMARY Eff From - Eff To : 994 
+PRIMARY Patient Relation To : Self 
+PRIMARY Insurance Type : INDEMNITY 
+PRIMARY Group Number : 
+PRIMARY Subscriber ID : 4PLIDASDMIO
+PRIMARY Subscriber DOB : 07/26/1929
+SECONDARY Insurance Company : HORIZON BCBS OF NJ
+SECONDARY Phone : 
+SECONDARY Plan Name : BCBS OUT OF St PPO
+SECONDARY Payor Name : HORIZON BCBS OF NJ
+SECONDARY Subscriber Name : LEWIS,FRANCES
+SECONDARY Claim Address : PO BOX 25, NI NEWARK, NJ 071010025
+SECONDARY Eff From - Eff To : 2012 
+SECONDARY Patient Relation To : ELF 
+SECONDARY Insurance Type : INDEMNITY 
+SECONDARY Group Number : 000071 4361000002
+SECONDARY Subscriber ID : UGG921605458
+SECONDARY Subscriber DOB : 7/26/1929
+TERTIARY Insurance Company :  
+TERTIARY Phone : 
+TERTIARY Plan Name : 
+TERTIARY Payor Name :  
+TERTIARY Subscriber Name : 
+TERTIARY Claim Address :  
+TERTIARY Eff From - Eff To :  
+TERTIARY Patient Relation To :  
+TERTIARY Insurance Type :  
+TERTIARY Group Number : 
+TERTIARY Subscriber ID : 
+TERTIARY Subscriber DOB : 

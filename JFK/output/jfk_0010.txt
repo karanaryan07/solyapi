@@ -1,0 +1,72 @@
+Printed : February 21, 2020
+MRN : 0486930
+HAR : 80800301647
+Patient : HENDERSON, MARCUS
+ENCOUNTER : 2/17/2020
+CSN : 5063037293
+Patient Class : Inpatient
+Unit : JFK 4 NORTH
+Hospital Service : MED (MEDICINE)
+Room/Bed : 4305/01
+Admitting Provider : Inderjit Kainth, MD
+Adm Diagnosis : Hypocaleemia [E83.51]
+Attending Provider : indegjit Kainth, MD
+Admit Source : Non-healtheare Facility
+Name : HENDERSON, MARCL
+Race : HieNDERSON aa tee AMERICAN
+DOB : 8/16/1960 (59 yrs)
+Address : 196 HORIZON DR
+Ethnicity : Not Spanish Or Hispanic*
+Sex : Male
+City : EDISON, NJ 08817
+Language : ENGLISH
+MS : Married Primary
+PCP : , Stanley S Kim, MD
+Religion : BAPTIST
+Primary Phone : 88973-704-4288
+Guarantor Name : HENDERSON MARCUS
+Guarantor Date of Birth : 8/16/1960
+Guarantor Address : 196 HORIZON DR EDISON NJ
+Guarantor Sex : Male
+Guarantor Relation : Seif
+Guarantor Home Phone : 973-704-4288
+Guarantor ID : 110877282
+Guarantor Work Phone : 
+Guarantor Employer : DISABILITY
+Guarantor Status : NOT EMPLO
+PRIMARY Insurance Company : HORIZON BCBS OF NJ
+PRIMARY Phone : 
+PRIMARY Plan Name : HORIZON NJ DIRECT
+PRIMARY Payor Name : HORIZON BCBS OF NJ
+PRIMARY Subscriber Name : LEWIS,MICHELLE
+PRIMARY Claim Address : PO BOX 820 NJ NEWARK, NJ 07101
+PRIMARY Eff From - Eff To : /1/2018 - 
+PRIMARY Patient Relation To : Spouse 
+PRIMARY Insurance Type : INDEMNITY 
+PRIMARY Group Number : 9250002
+PRIMARY Subscriber ID : NJX3HZN62081510
+PRIMARY Subscriber DOB : 12/15/1964
+SECONDARY Insurance Company :  
+SECONDARY Phone : 
+SECONDARY Plan Name : 
+SECONDARY Payor Name :  
+SECONDARY Subscriber Name : 
+SECONDARY Claim Address :  
+SECONDARY Eff From - Eff To :  
+SECONDARY Patient Relation To :  
+SECONDARY Insurance Type :  
+SECONDARY Group Number : 
+SECONDARY Subscriber ID : 
+SECONDARY Subscriber DOB : 
+TERTIARY Insurance Company :  
+TERTIARY Phone : 
+TERTIARY Plan Name : 
+TERTIARY Payor Name :  
+TERTIARY Subscriber Name : 
+TERTIARY Claim Address :  
+TERTIARY Eff From - Eff To :  
+TERTIARY Patient Relation To :  
+TERTIARY Insurance Type :  
+TERTIARY Group Number : 
+TERTIARY Subscriber ID : 
+TERTIARY Subscriber DOB : 

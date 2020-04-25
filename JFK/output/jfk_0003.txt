@@ -1,0 +1,72 @@
+Printed : February 29, 2020
+MRN : 103692162
+HAR : 80800315358
+Patient : BAKSH, SHAIRA
+ENCOUNTER : 2/24/2020
+CSN : 5063518878
+Patient Class : Inpatient
+Unit : JEK AC ICU i
+Hospital Service : MCU (MEDICAL ICU)
+Room/Bed : 442401
+Admitting Provider : Nehabahen Shah, MD
+Adm Diagnosis : Subdural hematoma (HCC) [S06.5X9A]
+Attending Provider : Nehabahen Shah, MD
+Admit Source : Transfer from SNF  CF
+Name : BAKSH, SHAIRA
+Race : OTHER ASIAN
+DOB : 10/25/1936 (83 yrs)
+Address : oo Caren Renal 6l Rates
+Ethnicity : Not Spanish Or Hispanie*
+Sex : Female
+City : SCOTCH PLAINS, NJ 07076
+Language : HINDI
+MS : Married
+PCP : Nehababen Shah, MD
+Religion : NONE Pri
+Primary Phone : 500
+Guarantor Name : BAKSH SHAIRA
+Guarantor Date of Birth : 10/25/1936
+Guarantor Address : Ashbrook Care and Rehab Center 1610 Raritan Rd SCOTCH PLAINS NI
+Guarantor Sex : Female
+Guarantor Relation : Self
+Guarantor Home Phone : 908-889-5500
+Guarantor ID : 110895110
+Guarantor Work Phone : 
+Guarantor Employer : RETIRED
+Guarantor Status : RETIRED
+PRIMARY Insurance Company : MEDICARE 
+PRIMARY Phone : 
+PRIMARY Plan Name : MEDICARE PART A ONLY
+PRIMARY Payor Name : MEDICARE 
+PRIMARY Subscriber Name : BAKSH,SHAIRA
+PRIMARY Claim Address : PO BOX 890030 CAMP HILL
+PRIMARY Eff From - Eff To : 0     10/1/2001 - 
+PRIMARY Patient Relation To : Self 
+PRIMARY Insurance Type : INDEMNIT 
+PRIMARY Group Number : 
+PRIMARY Subscriber ID : 2EJIGASHXOS
+PRIMARY Subscriber DOB : 10/25/1936
+SECONDARY Insurance Company : HORIZON BCBS OF NI BBs
+SECONDARY Phone : 
+SECONDARY Plan Name : BCBS HORIZON FEDERAL
+SECONDARY Payor Name : HORIZON BCBS OF NI BBs
+SECONDARY Subscriber Name : BAKSHSHAIRA
+SECONDARY Claim Address : P0 BOX 636 NJ Newark,
+SECONDARY Eff From - Eff To :  
+SECONDARY Patient Relation To : Pat Rel to SELF 
+SECONDARY Insurance Type : INDEMNITY wel
+SECONDARY Group Number : low
+SECONDARY Subscriber ID : RS8857806
+SECONDARY Subscriber DOB : 1025/1936
+TERTIARY Insurance Company :  
+TERTIARY Phone : 
+TERTIARY Plan Name : 
+TERTIARY Payor Name :  
+TERTIARY Subscriber Name : 
+TERTIARY Claim Address :  
+TERTIARY Eff From - Eff To :  
+TERTIARY Patient Relation To :  
+TERTIARY Insurance Type :  
+TERTIARY Group Number : 
+TERTIARY Subscriber ID : 
+TERTIARY Subscriber DOB : 

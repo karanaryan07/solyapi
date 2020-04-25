@@ -1,0 +1,58 @@
+YobPage 1 of 2
+JFK Medical Center - Insurance Information
+Printed: February 28, 2020 MRN: 104304170 HAR: 80800328565 Patient: JARRETT, MALIK
+ENCOUNTER - 2/27/2020 CSN: 5063738516,
+Patient Class: Observation Uni) JFK 2 ACCESS CE*
+Hospital Service: CDU (OBSERVATION PT1) Room/Bed: 2012/01
+Admitting Provider Adm Diagnosis: Hypertensive emergency [116.1]
+Attending Provider: Sudhanshu Prasad, MD Admit Source: Non-healtheare Facility
+PATIENT ose
+Name Cian IT, MAL x) ites) | TEASECRAFRICAN DOB: 1226/1976 (43 yrs)
+pasion AMERICAN >
+shedhese | a ESB eIRE ELSER: HERSEMACI: Ethnicity: Not: Spanish Or Hispanie* Sex: Male
+NJOT3II
+City: JERSEY CITY, NJO7311 Language: ENGLISH MS: — Single
+PCP. Pep Not In System Religion: MUSLIM Primary 704-957-206::
+Phone:
+GUARANTOR
+Guarantor JARRETT,MALIK. Date of Birth: 12/26/1976
+Address: | HARBORSIDE PLACE Sex: Male
+JERSEY CITY, NJ 07311
+Relation Self Home Phone: 704-957-2034
+Guarantor, 111270286 Work Phone:
+Guarantor Employer, CONRAIL Status: FULL TIME
+EMERGENCY CONTACT
+Contact Name Leval Guardian? Relationship to Patient — Primary Phone
+1. SUMMEY,ARLENE: No. Mother 407-839-9562
+2. *No Contact Specitied*
+COVERAGE
+PRIMARV-ANSURANCE 2A lthonization Nunbee N/A neha eee RS
+insurance AETNA Phone: Plan: AETNA HMO
+Company
+Payor Name: AETNA. Subscriber Name: JARRETT.MALIK Claim PO BOX 981106
+Address: EL PASO. TX 79998-1106.
+Eff From — Ef 5/1/2015 - Pat. Rel. to Self Insurance INDEMNITY
+To: Subscriber: Type:
+Group Number: 072458201000109 ‘Subscriber ID: W218971328 Sub. DOB: 1226/1976
+SECONDARY INSURANCES A lthorization Numbes WANS] (AIS Os ONAN ee ne
+Insurance Phone: Plan:
+‘Company
+Payor Name. Subscriber Name: Claim
+Address:
+EAP From — EfT - Pat. Rel to Insurance
+To: Subscriber: Type:
+Group Number: Subseriber ID: Sub. DOB:
+TERTIARY INSURANCE A uhorzalion Number NIAC a0 (UE Se en iN Eg 5
+Insurance Phone: Plan:
+Company
+Payor Name: Subscriber Name: Claim
+Address:
+Eff From ~ Ett : Pat. Rel. to Insurance:
+To: Subscriber Type:
+Group Number Subscriber ID: Sub. DOB:
+eferred By estination 2. 3,
+Referred Bs Destination: 1 4 / “a Ih
+oath — eB on yr
+Ow 0 nase fox iy sony
+wz 7
+Printed by SANTIAGO, ARTHUR F 7522235. at 2/28/2020 2:47:33 PM

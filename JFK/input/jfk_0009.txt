@@ -1,0 +1,57 @@
+“%obPage | of 2
+JFK Medical Center - Insurance Information
+Printed: February 21, 2020 MRN: 104199382 HAR: 80800303489 Patient: GHOSH, PROBIR ;
+ENCOUNTER - 2/18/2020 CSN: 5063114634
+Patient Class: Inpatient Unit: JFK 3 NORTH STR*
+Hospital Service: MED (MEDICINE) Room/Bed: 3305/01
+Admitting Provider Stanley $ Kim, MD Adm Diagnosis: ICH (intracerebral hemorrhage) (HCC) {I*
+Attending Provider: Stanley S Kim, MD Admit Source: Non-healthcare Facility
+PATIENT -——>——_
+‘Name: ‘ GHOSH, PROBIR = Race: OTHER RACE. DOB: 1/21/1943 (77
+2 i 2 yrs)
+Address: 23 KESTER DRIVE Ethnicity: Not: Spanish Or Hispanic* Sex: Male
+City EDISON. NJ 08817 Language: ENGLISH, MS: Married
+PCP: Indravadan T Patel, MD Religion; HINDU ae 732-549-3896 347-204-7175
+Phone:
+GUARANTOR
+Guarantor: GHOSH,PROBIR- Date of Birth: 1/21/1943
+Address: 23 KESTER DRIVE Sex: Male
+EDISON, NJ 08817
+Relation: Self Home Phone: 752-549-3896
+Guarantor: 111038119 Work Phone
+Guarantor Employer: RETIRED Status: RETIRED
+EMERGENCY CONTACT
+Contact Name Legal Guardian? Relationship to Patient — Primary Phone
+1, GHOSH,SUCHETA. Spouse (347-204-7175
+2. ¢No Contact Specified* 4
+COVERAGE
+PRIMARY INSURANCE - Authorization Number: NA 5 SE ee Eee
+Insurance MEDICARE Phone: Plan MEDICARE PART A AND B
+Company
+Payor Name’ MEDICARE Subseriber Name: GHOSH,PROBIR Claim: PO BOX 890030
+Address: CAMP HILL. PA 17089-0030
+Eff From ~ Eff 1/1/2008 Pat, Rel. to Self Insurance INDEMNITY,
+To: Subseriber: Type
+Group Number: Subscriber ID: 7DH7NQ2VK63 Sub, DOB: OL21/1943
+SECONDARY INSURANCE = Authonzation Number WA (\u fos Stl od (ome cee ee
+Insurance Phone: Plan:
+‘Company
+Payor Name: Subseriber Name Claim
+Address:
+Left From ~ BAY - Pat. Rel to Insurance
+To: Subseriber Type:
+Group Number: Subseriber 1D: Sub. DOB.
+TERTIARY. INSURA NEB SA uifiarigation-Numbec VAL cos ot cal aah acuta salam NMS URN Te Te aU er De:
+Insurance Phone Plan
+Company
+Payor Name: Subscriber Name: Claim
+Address:
+Eff From ~ EAT - Pat. Rel. to Insurance
+To Subscriber Type:
+Group Number: Subscriber ID: Sub. DOB: 4h
+Referred By Destination 12,3. 4 : Vaz yernt’d
+: lve é nN)
+Goer, Liq wu i> Li pal?
+¢ on a
+ow
+Printed by SANTIAGO, ARTHUR F 7522235” at 2/21/2020 10:16:46 AM

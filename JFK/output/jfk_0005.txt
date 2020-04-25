@@ -1,0 +1,72 @@
+Printed : February 21, 2020
+MRN : 103690809
+HAR : 80800297578
+Patient : BOONE, MATTHEW
+ENCOUNTER : 2/13/2020
+CSN : 5062869585
+Patient Class : Inpatient
+Unit : JFK 5 NORTH
+Hospital Service : MED (MEDICINE)
+Room/Bed : 313/01
+Admitting Provider : Inderjit Kainth, MD
+Adm Diagnosis : DKA (diabetic ketoacidoses) (HCC) [E11.*
+Attending Provider : Inderjit Kainth, MD
+Admit Source : Non-healtheare Facility
+Name : BOONE, MATT newo
+Race : ree a
+DOB : 9/27/1966 (53 yrs) KR AMERICAN
+Address : HOMELESS
+Ethnicity : Not Spanish Or Hispanic*
+Sex : Male
+City : PLAINFIELD, NJ 07060
+Language : ENGLISH
+MS : Single
+PCP : Not On Staff Physician
+Religion : NONDENO
+Primary Phone : 9999999999
+Guarantor Name : BOONE,MATTHEW O
+Guarantor Date of Birth : 9/27/1966
+Guarantor Address : HOMELESS PLAINFIELD NJ
+Guarantor Sex : Male
+Guarantor Relation : Self
+Guarantor Home Phone : 999-999-9999
+Guarantor ID : 111249409
+Guarantor Work Phone : 
+Guarantor Employer : NONE
+Guarantor Status : NOT EMPLO
+PRIMARY Insurance Company : MEDICAID MANAGED CA
+PRIMARY Phone : 
+PRIMARY Plan Name : MCAID WELLCARE
+PRIMARY Payor Name : MEDICAID MANAGED CA
+PRIMARY Subscriber Name : BOONEMATTHEW O
+PRIMARY Claim Address : PO BOX 31224 MANAGED CARE TAMPA, F
+PRIMARY Eff From - Eff To : 2/13/2020- 
+PRIMARY Patient Relation To : Self 
+PRIMARY Insurance Type : INDEMNITY 
+PRIMARY Group Number : 1
+PRIMARY Subscriber ID : 23081123
+PRIMARY Subscriber DOB : 0927/1966
+SECONDARY Insurance Company :  
+SECONDARY Phone : 
+SECONDARY Plan Name : 
+SECONDARY Payor Name :  
+SECONDARY Subscriber Name : 
+SECONDARY Claim Address :  
+SECONDARY Eff From - Eff To :  
+SECONDARY Patient Relation To :  
+SECONDARY Insurance Type :  
+SECONDARY Group Number : 
+SECONDARY Subscriber ID : 
+SECONDARY Subscriber DOB : 
+TERTIARY Insurance Company :  
+TERTIARY Phone : 
+TERTIARY Plan Name : 
+TERTIARY Payor Name :  
+TERTIARY Subscriber Name : 
+TERTIARY Claim Address :  
+TERTIARY Eff From - Eff To :  
+TERTIARY Patient Relation To :  
+TERTIARY Insurance Type :  
+TERTIARY Group Number : 
+TERTIARY Subscriber ID : 
+TERTIARY Subscriber DOB : 

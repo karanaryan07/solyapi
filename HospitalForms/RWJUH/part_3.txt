@@ -1,0 +1,15 @@
+PlanName
+Phone Number
+Subscriber Name
+Subscriber SSN
+Group Name
+Relation to Patient
+Group #
+Policy #
+Cert #
+Effective Dt
+Insurance Addr
+City
+State
+Zip
+Designated Representative

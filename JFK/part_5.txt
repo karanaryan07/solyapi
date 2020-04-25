@@ -1,0 +1,18 @@
+Insurance
+Phone
+Plan
+Company
+Payor Name
+Subscriber Name
+Claim
+Address
+Eff From - Eff
+Pat. Rel. to
+Insurance
+To
+Subscriber
+Type
+Group Number
+Subscriber ID
+Sub. DOB
+SECONDARY
